@@ -1,4 +1,4 @@
-# Denne klassen beskriver en person som esr på en serie
+# Denne klassen beskriver en person som ser på en serie
 class Person:
     def __init__(self, serie: str):
         self.serie = serie
