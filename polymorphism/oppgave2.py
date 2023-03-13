@@ -16,7 +16,7 @@ class LitenFilLeser(FilLeser):
 
 # Lag en klasse StorFilLeser som arver fra FilLeser
 # Denne skal gjøre det samme, men alt innholdet som blir lest
-# skal gjøres om til små bokstaver!
+# skal gjøres om til store bokstaver!
 class StorFilLeser(FilLeser):
     pass
 
